@@ -1,0 +1,60 @@
+
+
+
+
+/* .grid {
+    display: grid; */
+    /* grid-template-columns: 150px auto 150px;
+    grid-template-rows: repeat(3, 100px);
+    grid-gap: 1em; */
+  /* } */
+
+
+
+header {
+    background-color: rgb(77, 77, 77);
+    height: 150px;
+    width: auto;
+   
+}
+
+.sidebar-left {
+    background-color: rgb(196, 196, 196);
+    height: 600px;
+    width: 120px;
+    float: left;
+}
+
+article {
+    background-color: white;
+   height: 500px;
+   width: 500px;
+
+}
+
+.sidebar-right {
+    background-color: rgb(196, 196, 196);
+    height: 600px;
+    width: 120px;
+    float: right;
+   
+}
+
+footer {
+    background-color: black;
+    height: 80px;
+    Width: auto;
+    float: bottom;
+}
+
+/* /* aside {
+    background-color: rgb(196, 196, 196);
+    height: 600px;
+    width: 80px; */
+/* } */
+
+/* aside {
+    background-color: rgb(196, 196, 196);
+    height: 600px;
+    /* width: 80px; */
+/* }  */
